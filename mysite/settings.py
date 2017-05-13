@@ -25,7 +25,7 @@ SECRET_KEY = '*(_erub=(h7l_d_ua3)jb3bpw@3&u4ja6ip)w)3#*j0_3o_7c^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
